@@ -1,4 +1,4 @@
-const apiUrl = 'http://3.110.186.173:8081/api/todos';
+const apiUrl = 'http://192.168.58.2:30386/api/todos';
 
 // Fetch todos when page loads
 document.addEventListener("DOMContentLoaded", getTodos);
